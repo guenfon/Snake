@@ -15,8 +15,19 @@ Game gồm 2 chế độ chơi:
 2. Survival: chế độ này tương tự chế độ trên tuy nhiêu người chơi phải ăn được quả táo trước khi hết thời gian quy định.
 # Các chức năng đã cài đặt
 1. settings: cho phếp người chơi chỉnh lại độ lớn của màn hình, thay đỏi mày nền, màu của rắn và màu của táo
+ * color scheme: điều chỉnh màu của màn hình chơi
+ * screen resolution: thay đổi kích cỡ màn hình
+ * fullscreen: mở full màn hình hoặc để màn hình có kích cỡ mà đã cài đặt ở phần screen resolution
 2. create profile: cho phếp người chơi tạo một tài khoản
+ * create: tạo một tên mới
+ * swith: thay đổi tài khoản xuất hiện sau khi tạo ít nhất một tài khoản
+ * delete: xóa tài khoản kiện tại.
 3. new game: ở phần này cho phép người chơi thiết lập cho con rắn về chiều dài ban đầu tốc độ có tường hay không và điều chỉnh độ rộng của tường, ở đây người chơi sẽ lựa chọn chế độ chơi đó là training hoặc survival
+ * game mod: lựa chọn chế độ chơi
+ * field size: tùy chỉnh độ rộng của map
+ * game speed: tốc độ di chuyển của rắn
+ * body size: độ dài ban đầu của rắn
+ * borderless: tùy chỉnh việc rắn đi xuyên tường hoặc không
 4. link video demo trò chơi: https://youtu.be/33VmgSVP0BQ
 # Các kỹ thuật sử dụng trong chương trình
 Class, hàng đợi, hàng đợi hai đầu, vector, mảng, con trỏ.
